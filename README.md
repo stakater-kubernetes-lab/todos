@@ -5,3 +5,4 @@ todos to finish
 - [ ] change the package names
 - [ ] add build files
 - [ ] update lab material
+- [ ] create jobdsl to import into Jenkins
