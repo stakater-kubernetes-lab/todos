@@ -1,7 +1,7 @@
 # todos
 todos to finish
 
-- [x] -build applications & verify the deployment-
+- [x] ~~build applications & verify the deployment~~
 - [ ] change the package names
 - [ ] add Jenkinsfiles
 - [ ] update lab material
