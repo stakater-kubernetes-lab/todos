@@ -8,3 +8,4 @@ todos to finish
 - [ ] create jobdsl to import into Jenkins
 - [ ] copy & build these as well: https://github.com/fabric8io/kubeflix/tree/master/examples
 - [ ] build & push docker images to dockerhub
+- [ ] add fabric8 plugin to pom files for java projects
