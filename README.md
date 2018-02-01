@@ -6,3 +6,4 @@ todos to finish
 - [ ] add Jenkinsfiles
 - [ ] update lab material
 - [ ] create jobdsl to import into Jenkins
+- [ ] copy & build these as well
