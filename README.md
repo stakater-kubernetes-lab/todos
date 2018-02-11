@@ -9,3 +9,4 @@ todos to finish
 - [ ] copy & build these as well: https://github.com/fabric8io/kubeflix/tree/master/examples
 - [ ] build & push docker images to dockerhub
 - [ ] add fabric8 plugin to pom files for java projects
+- [ ] run this https://github.com/IBM/microservices-traffic-management-using-istio
