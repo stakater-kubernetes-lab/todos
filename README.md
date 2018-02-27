@@ -3,7 +3,7 @@ todos to finish
 
 - [x] ~~build applications & verify the deployment~~
 - [ ] add lab namespace; update the certificate to have lab namespace
-- [ ] add healthchecks
+- [ ] add health and liveness checks
 - [ ] change the package names
 - [ ] add Jenkinsfile to frontend app
 - [ ] update lab material
