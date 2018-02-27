@@ -4,7 +4,7 @@ todos to finish
 - [x] ~~build applications & verify the deployment~~
 - [ ] add lab namespace; update the certificate to have lab namespace
 - [ ] change the package names
-- [ ] add Jenkinsfiles
+- [ ] add Jenkinsfile to frontend app
 - [ ] update lab material
 - [ ] create jobdsl to import into Jenkins
 - [ ] copy & build these as well: https://github.com/fabric8io/kubeflix/tree/master/examples
